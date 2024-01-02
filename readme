@@ -1,0 +1,4 @@
+simple django project that print items by url http://127.0.0.1:8000/items/
+for running install requirements from requirements.txt
+for running server manage.py runserver
+
